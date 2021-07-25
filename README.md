@@ -8,3 +8,6 @@ Keyword(s) for query
 #### Output
 List of latest tweets, containing those keyword(s), labeled as hate speech or non hate speech.
 
+### Dataset 
+https://drive.google.com/drive/folders/1VymOAP73K3UoESr3V1sIemIQ3UqzUk6_?usp=sharing
+
